@@ -3,7 +3,7 @@
 A suite to ...
 
 ## vascpy
-<img alt="vascpy Banner" src="https://github.com/BlueBrain/vascpy/raw/main/doc/logo/BBP-vascpy.jpg" width="600"/>
+<img alt="vascpy Banner" src="https://github.com/BlueBrain/vascpy/raw/main/doc/source/logo/BBP-vascpy.jpg" width="600"/>
 
 Useful links:
 [GitHub repo](https://github.com/BlueBrain/vascpy),
