@@ -29,12 +29,3 @@ aiming to establish an integrated, extensible and domain-specific framework capa
 high-fidelity meshing and high-quality rendering of vascular morphologies. VessMorphoVis is developed as an extension to its sister NeuroMorphoVis.
 
 
-## h5-vasc-graph
-
-*h5-vasc-graph defines the section-centered morphology specification for large-scale vasculature graphs.*
-
-h5-vasc-graph defines the section-centered morphology specification for large-scale vasculature graphs.
-
-Useful links:
-[GitHub repo](https://github.com/BlueBrain/h5-vasc-graph),
-[Documentation](https://github.com/BlueBrain/morphology-documentation#readme).
